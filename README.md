@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @callmeOwais
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Advanced Front-End Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Awais
+- 🌱 I’m currently Working on  Front-End Development, with the help of 
+- 👉 Html , CSS, JavaScript,TailwindCss,tailblocks,and JQuery,
 - 📫 How to reach me rajputawais815@gmail.com
 
 <!---
